@@ -1,0 +1,1 @@
+# Algorithmic-Candlestick-Pattern-Detection-for-Real-Time-Financial-Data-Analysis-
